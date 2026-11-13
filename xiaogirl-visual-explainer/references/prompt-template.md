@@ -1,6 +1,6 @@
 # 赛事女孩生图提示词模板
 
-每张图单独生成。生成时优先把 `assets/character-reference/01-canonical-full-body.png` 作为角色参考；研究主题可追加 `02-market-research.png`，赛事引导主题可追加 `03-event-guide.png`。
+每张图单独生成。生成时优先把 `assets/character-reference/01-canonical-full-body.jpg` 作为角色参考；研究主题可追加 `02-market-research.jpg`，赛事引导主题可追加 `03-event-guide.jpg`。
 
 ```text
 Generate one standalone 16:9 horizontal Chinese article illustration for a university mock investment competition.
