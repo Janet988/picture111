@@ -82,7 +82,7 @@ description: 使用固定的模拟投资大赛小女孩 IP，生成或规划统�
 
 ### 4. 单张生成
 
-用户明确要求生成时，每张图单独调用图像模型。默认使用 `references/prompt-template.md`，并参考 `01-canonical-full-body.png`；涉及研究行情时参考 `02-market-research.png`，涉及报名或赛事引导时参考 `03-event-guide.png`。
+用户明确要求生成时，每张图单独调用图像模型。默认使用 `references/prompt-template.md`，并参考 `01-canonical-full-body.jpg`；涉及研究行情时参考 `02-market-research.jpg`，涉及报名或赛事引导时参考 `03-event-guide.jpg`。
 
 每张图必须满足：默认 16:9 横版；9:16 时保持同一笔触并改为上下分段；纯白背景、黑色手绘线稿、轻微手绘抖动、可爱但不幼稚的角色比例、标题和关键文字清楚可读、深蓝和青色克制使用、少量红橙蓝中英文标注、赛事女孩参与核心动作、只表达一个核心结构。不要把 9:16 机械拉伸成横图。
 
