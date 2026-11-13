@@ -1,15 +1,16 @@
 name: xiaogirl-visual-explainer
 display_name: 小女孩手绘视觉 Skill
-version: 1.0.0
+version: 1.1.0
 entry: SKILL.md
 description: >-
-  固定模拟投资大赛小女孩 IP 的跨平台手绘视觉规范，用于生成 PPT、9:16 海报、网页插图、推文配图、赛事介绍图、视频分镜与轻动效。
+  自动识别文档可视化位置，询问张数后生成小女孩手绘配图并插回文档；兼容PPT、海报、网页和视频分镜。具体生成与编辑能力由宿主提供。
 formats:
   - ppt
   - poster-9x16
   - web
   - social-post
   - video-storyboard
+  - document-illustration
 references:
   - references/style-dna.md
   - references/prompt-template.md
@@ -19,6 +20,8 @@ references:
   - references/platform-recipes.md
   - references/video-storyboard.md
   - references/style-reference-links.md
+  - references/document-illustration-workflow.md
+  - references/document-insertion.md
 assets:
   character_reference: assets/character-reference/
   style_reference: assets/style-reference/girl-ip/
