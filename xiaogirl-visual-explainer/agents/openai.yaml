@@ -1,0 +1,7 @@
+interface:
+  display_name: "小女孩 PPT Skills"
+  short_description: "用固定小女孩 IP 生成手绘 PPT、海报、网页和视频素材"
+  default_prompt: "Use $xiaogirl-ppt-skills 将这段内容提炼成赛事女孩手绘风格的 PPT、9:16 海报、网页插图或视频分镜，并先给出图文结构。"
+policy:
+  allow_implicit_invocation: true
+
