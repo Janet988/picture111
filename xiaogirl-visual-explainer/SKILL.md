@@ -28,9 +28,9 @@ description: 使用固定的模拟投资大赛小女孩 IP，生成或规划统�
 
 生成前优先读取并参考：
 
-- `assets/character-reference/01-canonical-full-body.png`：角色外观母版。
-- `assets/character-reference/02-market-research.png`：研究行情动作参考。
-- `assets/character-reference/03-event-guide.png`：赛事引导动作参考。
+- `assets/character-reference/01-canonical-full-body.jpg`：角色外观母版。
+- `assets/character-reference/02-market-research.jpg`：研究行情动作参考。
+- `assets/character-reference/03-event-guide.jpg`：赛事引导动作参考。
 - `assets/style-reference/girl-ip/`：线上白皮书中已确认的 12 张成品；生成新图时先对照这里的笔触、留白、标题和角色动作。
 - `references/xiaohei-ip.md`：角色设定、动作边界和识别要素。
 - `references/style-dna.md`：白底、线条、颜色和留白规则。
